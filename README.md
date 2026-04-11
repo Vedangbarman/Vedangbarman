@@ -1,7 +1,7 @@
 -  Hi, I’m @Vedangbarman
--  I’m interested in C
--  I’m currently learning C
--  I’m looking to collaborate on C, Python & Mysql
+-  I’m interested in Writting Custom Cuda Kernels and Training Deep Nueral Networks
+-  I’m currently learning C++
+-  I’m looking to collaborate on C++, Python & Mysql
 -  How to reach me email: vedangbarman@gmail.com
 -  Pronouns: He/Him
   

@@ -1,5 +1,5 @@
 -  Hi, I’m @Vedangbarman
--  I’m interested in Writting Custom Cuda Kernels and Training Deep Nueral Networks
+-  I’m interested in Writting Custom Cuda Kernels and Training Deep Neural Networks
 -  I’m currently learning C++
 -  I’m looking to collaborate on C++, Python & Mysql
 -  How to reach me email: vedangbarman@gmail.com

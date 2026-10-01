@@ -42,9 +42,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedangbarman&layout=compact&theme=transparent&hide_border=true&title_color=00599C&text_color=333333" alt="Top Languages" />
-</div>
 
 <br/>
 

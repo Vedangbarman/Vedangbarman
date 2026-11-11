@@ -23,4 +23,5 @@ Computer Science Engineering student focused on machine learning and applied AI.
 ## Contact
 
 [LinkedIn](https://linkedin.com/in/vedang-barman-9668291ba) | [Hugging Face](https://huggingface.co/VedangBarman) | [LeetCode](https://leetcode.com/u/Vedang_)
+
 <img src="nagare/nagare.svg" width="100%" alt="nagare" />
